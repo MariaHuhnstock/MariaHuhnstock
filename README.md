@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:mhuhnstock@stud.macromedia.de">Email</a> ·
-  <a href="https://www.linkedin.com/in/maria-huhnstock/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/maria-huhnstock/">LinkedIn</a>
 </p>
 
 ---

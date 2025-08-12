@@ -33,15 +33,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/maria-huhnstock" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Maria Huhnstock" height="30" width="40" />
-  </a>
-  <a href="mailto:mhuhnstock@stud.macromedia.de" target="_blank" rel="noopener noreferrer" title="E-Mail an mhuhnstock@stud.macromedia.de">
-    <img align="center" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="Outlook E-Mail - mhuhnstock@stud.macromedia.de" height="30" width="30" />
-  </a>
-</p>
-
-
